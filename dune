@@ -1,0 +1,3 @@
+(executable
+   (name      obrc)
+   (libraries base stdio unix))
